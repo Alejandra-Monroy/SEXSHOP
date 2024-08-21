@@ -1,0 +1,8 @@
+.imagen-logo{
+    height: 20px;
+    width: 15px;
+}
+.imagen-logo img{
+    height: 50%;
+border-radius: 30px;
+}
